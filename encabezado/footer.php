@@ -16,7 +16,7 @@
             integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
             crossorigin="anonymous"
         />
-        <link rel="stylesheet" href="css/style.css">
+  
 
     
 
@@ -26,7 +26,7 @@
 
     <body>
         
-<div style="margin-top: 500px;  background-color: blue; padding: 30px;text-align: center;
+<div style="margin-top: 100px;  background-color: blue; padding: 50px;text-align: center;
     color: white;">
       <h1>Registro de Estudiantes</h1>
 </div>
